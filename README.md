@@ -40,8 +40,9 @@
 <p>python3 main.py -p Regression -m HappinessByYear -s Happiness</p> 
 
 <h4><strong>Contributors</strong></h4>
-<p>Katrina Wheeler- katrina.wheeler@du.edu</p>
 <p>Nicole Pierick- nicole.pierick@du.edu</p>
+<p>Katrina Wheeler- katrina.wheeler@du.edu</p>
+
 
 
 
